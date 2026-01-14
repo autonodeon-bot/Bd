@@ -1,0 +1,7 @@
+{
+  "name": "Birthday AI Planner",
+  "description": "Интеллектуальный помощник для создания приглашений и дизайна оформления дня рождения с использованием ИИ Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
